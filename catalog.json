@@ -1,0 +1,75 @@
+{
+  "brand": "Horpi Tools",
+  "products": [
+    {
+      "id": "showengine",
+      "name": "ShowEngine",
+      "description": "Show control, dalverziók, setlistek és exportok REAPERhez.",
+      "active": true,
+      "platform": "apps",
+      "public_versions": [],
+      "logo": "assets/showengine-logo.png",
+      "releases": [],
+      "downloads": [],
+      "feedback_url": "https://github.com/Horpilight996/Horpi-Tools/issues/1",
+      "latest_development": null,
+      "latest_stable": null,
+      "feedback_api": "https://api.github.com/repos/Horpilight996/Horpi-Tools/issues/1/comments"
+    },
+    {
+      "id": "ma3-showengine",
+      "name": "ShowEngine · grandMA3",
+      "description": "A ShowEngine grandMA3 kiegészítője. Fejlesztés alatt.",
+      "active": false,
+      "platform": "grandma3",
+      "public_versions": [],
+      "logo": "assets/ma3-showengine-logo.png",
+      "releases": [],
+      "downloads": [],
+      "feedback_url": "https://github.com/Horpilight996/Horpi-Tools/issues",
+      "latest_development": null,
+      "latest_stable": null
+    },
+    {
+      "id": "showcaller",
+      "name": "Showcaller",
+      "description": "Showcaller alkalmazás. Tervezés alatt.",
+      "active": false,
+      "platform": "apps",
+      "public_versions": [],
+      "releases": [],
+      "downloads": [],
+      "feedback_url": "https://github.com/Horpilight996/Horpi-Tools/issues",
+      "latest_development": null,
+      "latest_stable": null
+    },
+    {
+      "id": "tour-manager",
+      "name": "Tour Manager",
+      "description": "Turnékezelő alkalmazás. Tervezés alatt.",
+      "active": false,
+      "platform": "apps",
+      "public_versions": [],
+      "releases": [],
+      "downloads": [],
+      "feedback_url": "https://github.com/Horpilight996/Horpi-Tools/issues",
+      "latest_development": null,
+      "latest_stable": null
+    },
+    {
+      "id": "lifehack",
+      "name": "Lifehack",
+      "description": "grandMA3 plugin. Tervezés alatt.",
+      "active": false,
+      "platform": "grandma3",
+      "public_versions": [],
+      "releases": [],
+      "downloads": [],
+      "feedback_url": "https://github.com/Horpilight996/Horpi-Tools/issues",
+      "latest_development": null,
+      "latest_stable": null
+    }
+  ],
+  "developer_url": "https://github.com/Horpilight996/ShowEngine",
+  "feedback_endpoint": ""
+}
