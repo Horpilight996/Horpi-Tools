@@ -8,6 +8,8 @@
       "active": true,
       "platform": "apps",
       "public_versions": [],
+      "type": "REAPER script",
+      "announced_test_version": "",
       "logo": "assets/showengine-logo.png",
       "releases": [],
       "downloads": [],
@@ -23,6 +25,8 @@
       "active": false,
       "platform": "grandma3",
       "public_versions": [],
+      "type": "Plugin",
+      "announced_test_version": "",
       "logo": "assets/ma3-showengine-logo.png",
       "releases": [],
       "downloads": [],
@@ -37,6 +41,8 @@
       "active": false,
       "platform": "apps",
       "public_versions": [],
+      "type": "App",
+      "announced_test_version": "",
       "releases": [],
       "downloads": [],
       "feedback_url": "https://github.com/Horpilight996/Horpi-Tools/issues",
@@ -50,6 +56,8 @@
       "active": false,
       "platform": "apps",
       "public_versions": [],
+      "type": "App",
+      "announced_test_version": "",
       "releases": [],
       "downloads": [],
       "feedback_url": "https://github.com/Horpilight996/Horpi-Tools/issues",
@@ -63,6 +71,8 @@
       "active": false,
       "platform": "grandma3",
       "public_versions": [],
+      "type": "Plugin",
+      "announced_test_version": "",
       "releases": [],
       "downloads": [],
       "feedback_url": "https://github.com/Horpilight996/Horpi-Tools/issues",
@@ -70,6 +80,6 @@
       "latest_stable": null
     }
   ],
-  "developer_url": "https://github.com/Horpilight996/ShowEngine",
-  "feedback_endpoint": ""
+  "feedback_endpoint": "",
+  "backend_endpoint": "https://exrkxbxnhbpogmpwxqoy.supabase.co/functions/v1/horpi-api"
 }
