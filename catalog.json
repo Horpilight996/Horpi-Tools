@@ -1,5 +1,5 @@
 {
-  "brand": "Horpi Tools",
+  "brand": "Show Tools",
   "products": [
     {
       "id": "showengine",
@@ -13,10 +13,9 @@
       "logo": "assets/showengine-logo.png",
       "releases": [],
       "downloads": [],
-      "feedback_url": "https://github.com/Horpilight996/Horpi-Tools/issues/1",
+      "feedback_url": "https://github.com/Horpilight996/Horpi-Tools/issues",
       "latest_development": null,
-      "latest_stable": null,
-      "feedback_api": "https://api.github.com/repos/Horpilight996/Horpi-Tools/issues/1/comments"
+      "latest_stable": null
     },
     {
       "id": "ma3-showengine",
@@ -78,6 +77,36 @@
       "feedback_url": "https://github.com/Horpilight996/Horpi-Tools/issues",
       "latest_development": null,
       "latest_stable": null
+    },
+    {
+      "id": "showcaller-plugin",
+      "name": "ShowCaller · grandMA3",
+      "description": "Korábbi alapok rendelkezésre állnak. A fejlesztés előkészítés alatt.",
+      "active": false,
+      "platform": "grandma3",
+      "public_versions": [],
+      "type": "Plugin",
+      "announced_test_version": "",
+      "releases": [],
+      "downloads": [],
+      "feedback_url": "https://github.com/Horpilight996/Horpi-Tools/issues",
+      "latest_development": null,
+      "latest_stable": null
+    },
+    {
+      "id": "lockengine",
+      "name": "LockEngine · grandMA3",
+      "description": "Korábbi alapok rendelkezésre állnak. A fejlesztés előkészítés alatt.",
+      "active": false,
+      "platform": "grandma3",
+      "public_versions": [],
+      "type": "Plugin",
+      "announced_test_version": "",
+      "releases": [],
+      "downloads": [],
+      "feedback_url": "https://github.com/Horpilight996/Horpi-Tools/issues",
+      "latest_development": null,
+      "latest_stable": null
     }
   ],
   "feedback_endpoint": "",
@@ -86,9 +115,9 @@
     "tools": {
       "short": "Színpadi tapasztalatból és közös ötletekből születő eszközök zenekaroknak, technikai stáboknak és a produkció körül dolgozóknak.",
       "paragraphs": [
-        "Horpi vagyok, világítástervező, a Horpi Tools kitalálója. 2009 óta vagyok a színpad közelében, ennek nagy részében főként világítással foglalkozom, színházi előadásokban, koncerteken és más színpadi show-kon.",
+        "Horpi vagyok, világítástervező, a Show Tools kitalálója. 2009 óta vagyok a színpad közelében, ennek nagy részében főként világítással foglalkozom, színházi előadásokban, koncerteken és más színpadi show-kon.",
         "Lehetőségem volt már több nagy és összetett show-n dolgozni, akár csapatban is. Ezekben a munkákban kollégákkal és barátokkal sok eszközt és megoldást próbáltunk ki, hogy gyorsabban, pontosabban és egyszerűbben dolgozhassunk.",
-        "A Horpi Tools ezekből a tapasztalatokból és közös ötletekből építkezik. A korábbi saját megoldásaimat most stabilabb, átgondoltabb eszközökké formálom zenekaroknak, technikai stáboknak és a produkció körül dolgozóknak. Ebben olyan barátaim és kollégáim segítenek nekem, akik maguk is sok éve vannak a pályán.",
+        "A Show Tools ezekből a tapasztalatokból és közös ötletekből építkezik. A korábbi saját megoldásaimat most stabilabb, átgondoltabb eszközökké formálom zenekaroknak, technikai stáboknak és a produkció körül dolgozóknak. Ebben olyan barátaim és kollégáim segítenek nekem, akik maguk is sok éve vannak a pályán.",
         "Elsősorban asztali környezetre — Windowsra és macOS-re —, valamint grandMA-hoz fejlesztünk. Később mobilos megoldásokkal és más pultok integrációjával is szeretnénk bővíteni az eszközöket."
       ]
     },
