@@ -13,9 +13,10 @@
       "logo": "assets/showengine-logo.png",
       "releases": [],
       "downloads": [],
-      "feedback_url": "https://github.com/Horpilight996/Horpi-Tools/issues",
+      "feedback_url": "https://github.com/Horpilight996/Horpi-Tools/issues/1",
       "latest_development": null,
-      "latest_stable": null
+      "latest_stable": null,
+      "feedback_api": "https://api.github.com/repos/Horpilight996/Horpi-Tools/issues/1/comments"
     },
     {
       "id": "ma3-showengine",

@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "files": {
+    "index.html": "67caf5a7a8947ca91282824b11e8fb6f29a5dd6d5637a9b5ea55c242f5e06410",
+    "backend-ui.js": "5e949dcdc48cf0e3bc66c5141257566b4eb56f3c65fb3f8e024a94524b666f3d",
+    "catalog.js": "bd04942ebebf84b3370752277c9c143afc275d1eb723fc30abc0091a7650e17a",
+    "catalog.json": "f66df02a84986c76941de037dfdfbbcd3c483962ddac1a3be53e5b3ef2959d97"
+  },
+  "sources": {
+    "website.html": "34c95235145371a47ab7a18aab2c2a572de5ed98533765d5c7071a41f001be64",
+    "backend-ui.js": "5e949dcdc48cf0e3bc66c5141257566b4eb56f3c65fb3f8e024a94524b666f3d"
+  },
+  "build": "309ebb2fdafc0b77b9f91a316cebf525db3aa0c92635601e7daa8bb37feb4bca"
+}
