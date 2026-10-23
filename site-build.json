@@ -1,14 +1,14 @@
 {
   "schema": 1,
   "files": {
-    "index.html": "67caf5a7a8947ca91282824b11e8fb6f29a5dd6d5637a9b5ea55c242f5e06410",
-    "backend-ui.js": "5e949dcdc48cf0e3bc66c5141257566b4eb56f3c65fb3f8e024a94524b666f3d",
-    "catalog.js": "bd04942ebebf84b3370752277c9c143afc275d1eb723fc30abc0091a7650e17a",
-    "catalog.json": "f66df02a84986c76941de037dfdfbbcd3c483962ddac1a3be53e5b3ef2959d97"
+    "index.html": "8d9731f475d93e974f675d5d474ef0086b2a256eab4ea6e7dd325965840f68a6",
+    "backend-ui.js": "149a43178c1950165ba570740fd8c1c077218e32cf5f43901b0eee03b482022d",
+    "catalog.js": "c944560b5a2841d77b7b4c664160f73208aa962e26eb6bb736a83cedfd708b09",
+    "catalog.json": "9563a461cfde3156000c268837b75e07f7f3f9d5fcafb264387a7205d2879ed5"
   },
   "sources": {
     "website.html": "34c95235145371a47ab7a18aab2c2a572de5ed98533765d5c7071a41f001be64",
     "backend-ui.js": "5e949dcdc48cf0e3bc66c5141257566b4eb56f3c65fb3f8e024a94524b666f3d"
   },
-  "build": "309ebb2fdafc0b77b9f91a316cebf525db3aa0c92635601e7daa8bb37feb4bca"
+  "build": "f47e9c9cdf19a8a50d70cbab012972a0fe2383ba607d0cc3d0b31b971a27a4d0"
 }
