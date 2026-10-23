@@ -1,14 +1,16 @@
 {
   "schema": 1,
   "files": {
-    "index.html": "8d9731f475d93e974f675d5d474ef0086b2a256eab4ea6e7dd325965840f68a6",
-    "backend-ui.js": "149a43178c1950165ba570740fd8c1c077218e32cf5f43901b0eee03b482022d",
-    "catalog.js": "c944560b5a2841d77b7b4c664160f73208aa962e26eb6bb736a83cedfd708b09",
-    "catalog.json": "9563a461cfde3156000c268837b75e07f7f3f9d5fcafb264387a7205d2879ed5"
+    "index.html": "a149621a219025323d057958ba1dd728fbe0eb7e910adbd8603c574c10379965",
+    "backend-ui.js": "c16d8c08ea32d786de1a81c9d3c02387a4ed93ee1b45e194732be021bdf8f0ce",
+    "catalog.js": "09189f1e7d2cd8c699d400a6a26506af7aa95ec1e11e3cc8f6b596461be3bfa5",
+    "catalog.json": "07d32520fd1ad32107563ea287f400e0effeea90996be973b4bead89717facb5"
   },
   "sources": {
-    "website.html": "34c95235145371a47ab7a18aab2c2a572de5ed98533765d5c7071a41f001be64",
-    "backend-ui.js": "5e949dcdc48cf0e3bc66c5141257566b4eb56f3c65fb3f8e024a94524b666f3d"
+    "website.html": "cdcf7aa279bc7c753baef61649ce3849622edd42effe84c13d56bf24bfed3e06",
+    "backend-ui.js": "c16d8c08ea32d786de1a81c9d3c02387a4ed93ee1b45e194732be021bdf8f0ce",
+    "products": "2076648dcf07b65ecf5c3ff252543d61f95464bca05a0d9259f1442224e02c5f",
+    "content": "04923b205dadd6743556497ef0543bcbafd9bf833714a393f6be171777ddd93d"
   },
-  "build": "f47e9c9cdf19a8a50d70cbab012972a0fe2383ba607d0cc3d0b31b971a27a4d0"
+  "build": "3911d44f6c4bf9f1c8d2af899076f5cabfe536b8d38ccaeb9c13a687e956fa12"
 }
