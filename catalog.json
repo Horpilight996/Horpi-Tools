@@ -48,6 +48,28 @@
       "latest_stable": null
     },
     {
+      "id": "showcaller-plugin",
+      "name": "ShowCaller",
+      "description": "Korábbi alapok rendelkezésre állnak. A fejlesztés előkészítés alatt.",
+      "active": false,
+      "platform": "grandma3",
+      "public_versions": [],
+      "type": "Plugin",
+      "announced_test_version": "",
+      "tags": [
+        "grandMA3",
+        "Plugin",
+        "#ShowCaller",
+        "Vezérlés",
+        "Timecode"
+      ],
+      "releases": [],
+      "downloads": [],
+      "feedback_url": "https://github.com/Horpilight996/Horpi-Tools/issues",
+      "latest_development": null,
+      "latest_stable": null
+    },
+    {
       "id": "showcaller",
       "name": "ShowCaller",
       "description": "Showcaller alkalmazás. Tervezés alatt.",
@@ -108,28 +130,6 @@
       "tags": [
         "grandMA3",
         "Plugin"
-      ],
-      "releases": [],
-      "downloads": [],
-      "feedback_url": "https://github.com/Horpilight996/Horpi-Tools/issues",
-      "latest_development": null,
-      "latest_stable": null
-    },
-    {
-      "id": "showcaller-plugin",
-      "name": "ShowCaller",
-      "description": "Korábbi alapok rendelkezésre állnak. A fejlesztés előkészítés alatt.",
-      "active": false,
-      "platform": "grandma3",
-      "public_versions": [],
-      "type": "Plugin",
-      "announced_test_version": "",
-      "tags": [
-        "grandMA3",
-        "Plugin",
-        "#ShowCaller",
-        "Vezérlés",
-        "Timecode"
       ],
       "releases": [],
       "downloads": [],

@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "files": {
-    "index.html": "a149621a219025323d057958ba1dd728fbe0eb7e910adbd8603c574c10379965",
-    "backend-ui.js": "c16d8c08ea32d786de1a81c9d3c02387a4ed93ee1b45e194732be021bdf8f0ce",
-    "catalog.js": "09189f1e7d2cd8c699d400a6a26506af7aa95ec1e11e3cc8f6b596461be3bfa5",
-    "catalog.json": "07d32520fd1ad32107563ea287f400e0effeea90996be973b4bead89717facb5"
+    "index.html": "f79d4ef32a8549cf7157f955ba078197046a0d4ddfeca11ef39318470e2118aa",
+    "backend-ui.js": "590637d3085d41de98292ce00b60610cad4bb375de42629d60a2a023e526af13",
+    "catalog.js": "76add8dbdeee35ed304eaef4f7ff7daff2beef8f94e54ffb96fdbacb5b1e0edd",
+    "catalog.json": "ae120b7f99257b604ccdd5b2ac46f011b1e07f47fc744a0ca28f0867037ad34e"
   },
   "sources": {
-    "website.html": "cdcf7aa279bc7c753baef61649ce3849622edd42effe84c13d56bf24bfed3e06",
-    "backend-ui.js": "c16d8c08ea32d786de1a81c9d3c02387a4ed93ee1b45e194732be021bdf8f0ce",
-    "products": "2076648dcf07b65ecf5c3ff252543d61f95464bca05a0d9259f1442224e02c5f",
+    "website.html": "259556802226a69aedfc3293161c74935c394ff1c45817bf610ca1db70542f1f",
+    "backend-ui.js": "590637d3085d41de98292ce00b60610cad4bb375de42629d60a2a023e526af13",
+    "products": "4396be657320128990b33894c0b4b7706636c7a9b6ce5de32b2e781e7c4497ba",
     "content": "04923b205dadd6743556497ef0543bcbafd9bf833714a393f6be171777ddd93d"
   },
-  "build": "3911d44f6c4bf9f1c8d2af899076f5cabfe536b8d38ccaeb9c13a687e956fa12"
+  "build": "32a40073bc4ec67ad51eda068431374c5b2e148cae757386bdbe494ed05ea83a"
 }
