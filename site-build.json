@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "files": {
-    "index.html": "f79d4ef32a8549cf7157f955ba078197046a0d4ddfeca11ef39318470e2118aa",
-    "backend-ui.js": "590637d3085d41de98292ce00b60610cad4bb375de42629d60a2a023e526af13",
-    "catalog.js": "76add8dbdeee35ed304eaef4f7ff7daff2beef8f94e54ffb96fdbacb5b1e0edd",
-    "catalog.json": "ae120b7f99257b604ccdd5b2ac46f011b1e07f47fc744a0ca28f0867037ad34e"
+    "index.html": "a18abdff8362486cee778d0f27a565736d34021ee40a45fdf143d4d06c446d2c",
+    "backend-ui.js": "95e6c1991e00236001c9f244a91fd7fd1aa1fb8999736bdae6e78048a6822e7c",
+    "catalog.js": "ac5654d38e945eddbdd5c7e7377f967df28f3c9f3cd0e906547657f30f82f770",
+    "catalog.json": "fb1dd28119343cfeb8844a568a81c6475f999cf357a64539c49f8d16c002564f"
   },
   "sources": {
     "website.html": "259556802226a69aedfc3293161c74935c394ff1c45817bf610ca1db70542f1f",
@@ -12,5 +12,5 @@
     "products": "4396be657320128990b33894c0b4b7706636c7a9b6ce5de32b2e781e7c4497ba",
     "content": "04923b205dadd6743556497ef0543bcbafd9bf833714a393f6be171777ddd93d"
   },
-  "build": "32a40073bc4ec67ad51eda068431374c5b2e148cae757386bdbe494ed05ea83a"
+  "build": "45fdc1bc54d8ade0a278fb8ece1d979d5d3daeaaa59d7a26741db406d64ddf30"
 }
