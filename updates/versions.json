@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "products": [
+    {
+      "id": "showengine",
+      "latest": "0.8.6.12"
+    },
+    {
+      "id": "ma3-showengine",
+      "latest": null
+    },
+    {
+      "id": "showcaller",
+      "latest": null
+    },
+    {
+      "id": "tour-manager",
+      "latest": null
+    },
+    {
+      "id": "lifehack",
+      "latest": null
+    }
+  ]
+}
