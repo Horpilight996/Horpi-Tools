@@ -20,6 +20,14 @@
     {
       "id": "lifehack",
       "latest": null
+    },
+    {
+      "id": "showcaller-plugin",
+      "latest": null
+    },
+    {
+      "id": "lockengine",
+      "latest": null
     }
   ]
 }
