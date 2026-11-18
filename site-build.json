@@ -1,20 +1,22 @@
 {
   "schema": 1,
   "files": {
-    "index.html": "f79d4ef32a8549cf7157f955ba078197046a0d4ddfeca11ef39318470e2118aa",
+    "index.html": "9cb752daf7de35ca972515859dcb1e729e27ecd03d6f6771ecb974dbd6f21362",
     "backend-ui.js": "95e6c1991e00236001c9f244a91fd7fd1aa1fb8999736bdae6e78048a6822e7c",
-    "catalog.js": "76add8dbdeee35ed304eaef4f7ff7daff2beef8f94e54ffb96fdbacb5b1e0edd",
-    "catalog.json": "ae120b7f99257b604ccdd5b2ac46f011b1e07f47fc744a0ca28f0867037ad34e"
+    "catalog.js": "48a81c2107dd6c88a3c897483bb6b72b28d9d5b7c031244e1d3e63450f883349",
+    "catalog.json": "e434047ea84ba687fbf8c8e6b1dcfc12956dff37ee2164a1b60e10ac38d3951b",
+    "assets/ma3-showengine-logo.png": "51862ac39637937d3186e4ff31d52b56cb7c4bba12b3326cc37ccf0ad2b7e05c",
+    "assets/showengine-logo.png": "9381a505478eb7606e634cc3462178bd57f1d13ca6d03914d1de2b919048f65a"
   },
   "sources": {
     "website.html": "259556802226a69aedfc3293161c74935c394ff1c45817bf610ca1db70542f1f",
     "backend-ui.js": "590637d3085d41de98292ce00b60610cad4bb375de42629d60a2a023e526af13",
-    "products": "7eb4ad1da8354d7d29ded66b173f15ee0191db6da348b51dfc453b20f735cc5e",
+    "products": "611b30ec54c5ff321db727bd76ed13531a92ae0c9c06068683a9c7f7ad2df704",
     "logos": {
       "showengine": "9381a505478eb7606e634cc3462178bd57f1d13ca6d03914d1de2b919048f65a",
       "ma3-showengine": "51862ac39637937d3186e4ff31d52b56cb7c4bba12b3326cc37ccf0ad2b7e05c"
     },
     "content": "04923b205dadd6743556497ef0543bcbafd9bf833714a393f6be171777ddd93d"
   },
-  "build": "be5709b979ce73eb98447d94ce21011a08fc3dac766f4ad2ae12357e7ec9f82d"
+  "build": "371861e697d2f9cfab63dc3126d1fb9693fbc21b9e41ad1ae28cfb61989aff77"
 }

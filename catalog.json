@@ -18,11 +18,13 @@
         "Timecode"
       ],
       "logo": "assets/showengine-logo.png",
+      "current_version": "0.8.7.34",
       "releases": [],
       "downloads": [],
-      "feedback_url": "https://github.com/Horpilight996/Horpi-Tools/issues",
+      "feedback_url": "https://github.com/Horpilight996/Horpi-Tools/issues/1",
       "latest_development": null,
-      "latest_stable": null
+      "latest_stable": null,
+      "feedback_api": "https://api.github.com/repos/Horpilight996/Horpi-Tools/issues/1/comments"
     },
     {
       "id": "ma3-showengine",
@@ -41,6 +43,7 @@
         "Timecode"
       ],
       "logo": "assets/ma3-showengine-logo.png",
+      "current_version": null,
       "releases": [],
       "downloads": [],
       "feedback_url": "https://github.com/Horpilight996/Horpi-Tools/issues",
@@ -63,6 +66,7 @@
         "Vezérlés",
         "Timecode"
       ],
+      "current_version": null,
       "releases": [],
       "downloads": [],
       "feedback_url": "https://github.com/Horpilight996/Horpi-Tools/issues",
@@ -88,6 +92,7 @@
         "Vezérlés",
         "Timecode"
       ],
+      "current_version": null,
       "releases": [],
       "downloads": [],
       "feedback_url": "https://github.com/Horpilight996/Horpi-Tools/issues",
@@ -112,6 +117,7 @@
         "Zenekar",
         "Riderek"
       ],
+      "current_version": null,
       "releases": [],
       "downloads": [],
       "feedback_url": "https://github.com/Horpilight996/Horpi-Tools/issues",
@@ -131,6 +137,7 @@
         "grandMA3",
         "Plugin"
       ],
+      "current_version": null,
       "releases": [],
       "downloads": [],
       "feedback_url": "https://github.com/Horpilight996/Horpi-Tools/issues",
@@ -150,6 +157,7 @@
         "grandMA3",
         "Plugin"
       ],
+      "current_version": null,
       "releases": [],
       "downloads": [],
       "feedback_url": "https://github.com/Horpilight996/Horpi-Tools/issues",
